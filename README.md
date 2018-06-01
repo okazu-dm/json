@@ -406,3 +406,4 @@ The latest version of this library can be downloaded at
 Online Documentation should be located at
 
 * http://json.rubyforge.org
+
